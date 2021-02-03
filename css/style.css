@@ -6,15 +6,15 @@
   top:0;
   z-index: 10;
 }
-.col-xs-6 ul li a{
+.cado ul li a{
   padding:10px;
   color:#fff;
 }
-.col-xs-6 ul li{
+.cado ul li{
   display: inline-block;
   padding-top: 45px;
 }
-.col-xs-6 h2{
+.cattu h2{
   color:#fff;
   padding:20px;
 }
@@ -29,7 +29,7 @@
 .mrg{
   margin-top:50px;
 }
-.col-xs-12 h2{
+.cavo h2{
   margin-top: 50px;
   text-align: center;
   font-size: 50px;
@@ -46,7 +46,7 @@ padding:40px;
  background-color: #1ABC9C;
  height:600px;
 }
-.row .col-xs-12 h2{
+.cava h2{
   color:#fff;
 }
 .fony{
@@ -60,19 +60,19 @@ padding:40px;
   width:50%;
   margin:auto;
 }
-.col-xs-12 p{
+.paragrafo p{
   font-size:25px;
   padding-bottom:30px;
   border-bottom: 1px solid lightgrey;
 }
-.col-xs-12 h3{
+.contact h3{
   font-size:50px;
   padding:30px ;
   margin-bottom: 30px;
   text-align: center;
 
 }
-.col-xs-12 a{
+.dodici a{
 padding:15px;
 font-size: 25px;
 background-color: #159A80;
@@ -82,4 +82,22 @@ color: #fff;
 }
 .spazii{
 padding-bottom: 80px;
+}
+.footer-bottom{
+  text-align: center;
+  background-color: #1D252E;
+
+}
+.footer-top{
+ background-color: #2C3E50;
+}
+.bbanco{
+  color:#fff;
+  padding:10px;
+}
+.paddd{
+  padding:50px;
+}
+footer{
+  margin-top:30px;
 }

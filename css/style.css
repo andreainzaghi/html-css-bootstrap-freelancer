@@ -32,4 +32,54 @@
 .col-xs-12 h2{
   margin-top: 50px;
   text-align: center;
+  font-size: 50px;
+
+}
+.biancoo{
+width:50%;
+margin:auto;
+height:300px;
+margin-top:50px;
+padding:40px;
+}
+#coloree{
+ background-color: #1ABC9C;
+ height:600px;
+}
+.row .col-xs-12 h2{
+  color:#fff;
+}
+.fony{
+  font-size: 20px;
+  color:#fff;
+  padding-top: 35px;
+
+
+}
+.CINQUANTA{
+  width:50%;
+  margin:auto;
+}
+.col-xs-12 p{
+  font-size:25px;
+  padding-bottom:30px;
+  border-bottom: 1px solid lightgrey;
+}
+.col-xs-12 h3{
+  font-size:50px;
+  padding:30px ;
+  margin-bottom: 30px;
+  text-align: center;
+
+}
+.col-xs-12 a{
+padding:15px;
+font-size: 25px;
+background-color: #159A80;
+border-radius:10px;
+color: #fff;
+
+}
+.spazii{
+padding-bottom: 80px;
 }

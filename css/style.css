@@ -1,0 +1,35 @@
+.blu{
+  background-color: #2C3E50;
+  position: fixed;
+  left:0;
+  right:0;
+  top:0;
+  z-index: 10;
+}
+.col-xs-6 ul li a{
+  padding:10px;
+  color:#fff;
+}
+.col-xs-6 ul li{
+  display: inline-block;
+  padding-top: 45px;
+}
+.col-xs-6 h2{
+  color:#fff;
+  padding:20px;
+}
+.verde{
+  background-color: #1ABC9C;
+  height:750px;
+  margin-top:102px;
+}
+.text-center{
+  padding-top:100px;
+}
+.mrg{
+  margin-top:50px;
+}
+.col-xs-12 h2{
+  margin-top: 50px;
+  text-align: center;
+}

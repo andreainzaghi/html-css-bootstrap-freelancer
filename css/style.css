@@ -21,7 +21,7 @@
   color: #1ABC9C;
 }
 .cattu{
-  margin-top:15px;
+  margin-top:5px;
   text-align: left;
   padding-left:30px;
 }
@@ -40,7 +40,11 @@
 
 }
 .margine{
-  padding-bottom:30px;
+  padding-top: 30px;
+  text-align: center;
+}
+.mennu{
+  text-align: right;
 }
 .hamb{
   color:#fff;
@@ -181,8 +185,21 @@ padding-bottom: 80px;
   color:#fff;
   padding:10px;
 }
+.col-md-4 h3{
+  color:#fff;
+}
+.social{
+  font-size: 30px;
+  padding:4px;
+  color:#fff;
+}
+.centrro{
+  text-align: center;
+  display: inline-block;
+}
 .paddd{
   padding:50px;
+
 }
 footer{
   margin-top:30px;

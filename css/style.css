@@ -7,21 +7,46 @@
   z-index: 10;
 }
 .cado ul li a{
-  padding:10px;
+  padding:10px 40px 10px 10px;
   color:#fff;
 }
 .cado ul li{
   display: inline-block;
   padding-top: 45px;
 }
+.cado ul li :hover{
+  display: inline-block;
+  text-decoration: none;
+  color: #1ABC9C;
+}
+.cattu{
+  margin-top:15px;
+  text-align: left;
+  padding-left:30px;
+}
 .acca-tre h3{
   font-size:80px;
   color:#fff;
 }
+.stellla{
+  color:#fff;
+  font-size: 30px;
+  padding:4px;
+}
+.lineaa{
+  color:#fff;
+  font-size: 30px;
+
+}
+.margine{
+  padding-bottom:30px;
+}
 .hamb{
-  display: inline-block;
   color:#fff;
   text-align: right;
+}
+.ottanta{
+  font-size:60px;
 }
 .cattu h2{
   color:#fff;
@@ -47,7 +72,7 @@
 .verde{
   background-color: #1ABC9C;
   height:750px;
-  margin-top:102px;
+  margin-top:75px;
 }
 .text-center{
   padding-top:100px;

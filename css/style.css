@@ -6,6 +6,7 @@
   top:0;
   z-index: 10;
 }
+
 .cado ul li a{
   padding:10px 40px 10px 10px;
   color:#fff;
@@ -81,6 +82,7 @@
   margin-top:30px ;
   width:100%;
   border-radius: 15px;
+  position: relative;
 }
 .cavo h2{
   margin-top: 50px;
@@ -92,20 +94,31 @@
   position: absolute;
   top: 0;
   left: 0;
-
-
+  opacity: 0.8;
+  transition: all 0.3s ease-in-out;
+  opacity: 0;
   height: 100%;
   width: 100%;
-  z-index: 10;
+  z-index: 2;
+  border-radius: 15%;
+}
+.pluss{
+  position: absolute;
+  top:50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  font-size: 50px;
+  color:#fff;
 }
 .overlay:hover {
   position: absolute;
+  opacity: 0.8;
   top: 0;
   left: 0;
   background-color: #29B197;
   height: 100%;
   width: 100%;
-  z-index: 10;
+  z-index: 2;
 }
 .biancoo{
 width:50%;

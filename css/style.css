@@ -13,7 +13,7 @@
 }
 .cado ul li{
   display: inline-block;
-  padding-top: 45px;
+
 }
 .cado ul li :hover{
   display: inline-block;
@@ -39,9 +39,15 @@
   font-size: 30px;
 
 }
-.margine{
-  padding-top: 30px;
-  text-align: center;
+.margine {
+  padding: 30px;
+}
+.margine .rosa{
+text-align: right;
+}
+.margine ul li{
+  padding:10px;
+
 }
 .mennu{
   text-align: right;

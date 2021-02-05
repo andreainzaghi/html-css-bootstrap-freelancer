@@ -92,10 +92,17 @@ text-align: right;
   padding-top:100px;
 }
 .mrg{
-  margin-top:30px ;
+
   width:100%;
   border-radius: 15px;
-  position: relative;
+
+}
+.cc{
+    margin-top:30px ;
+    
+}
+.mmm{
+    position: relative;
 }
 .cavo h2{
   margin-top: 50px;
